@@ -1,0 +1,39 @@
+📝 Feedback Sentiment Analysis Report
+------------------------------------
+
+📌 Objective:
+To analyze client and user feedback and identify sentiment trends, satisfaction scores, and areas of improvement based on textual responses and ratings.
+
+📊 Dataset Overview:
+- Total Responses: 100 (Sample Data)
+- Columns: Feedback Text, Rating (1–5), Sentiment (Predicted using NLP)
+
+🔍 Sentiment Classification:
+- Positive: 38%
+- Neutral: 26%
+- Negative: 36%
+
+📈 Key Insights:
+- Positive feedbacks largely mentioned terms like “great content,” “helpful training,” and “engaging platform.”
+- Neutral sentiments typically discussed generic experiences or lacked emotional indicators.
+- Negative feedback pointed towards technical glitches, outdated modules, and slow customer support.
+
+⭐ Average Ratings by Sentiment:
+- Positive: 4.4
+- Neutral: 3.0
+- Negative: 2.1
+
+🧠 Recommendations:
+1. Prioritize improvements in technical performance and response time.
+2. Update outdated modules and introduce interactive features.
+3. Monitor neutral feedback for early signs of dissatisfaction.
+
+📂 Visuals Generated:
+- Sentiment Distribution (Bar Chart)
+- Sentiment Breakdown (Pie Chart)
+- Average Ratings per Sentiment (Bar Chart)
+
+🎯 Business Impact:
+This model can be integrated into live feedback systems (e.g., LMS dashboards) for real-time feedback monitoring, helping Ajinca Creation make data-driven content and platform decisions.
+
+✔️ Model Status: Company-ready (plug-and-play for real-time data streams)

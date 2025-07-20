@@ -39,9 +39,9 @@ FeedbackSentimentAnalyzer/ <br>
 
 ## 📊 Visual Samples
 
-| Sentiment Split Pie Chart | Rating vs Sentiment Bar Chart |
-|---------------------------|-------------------------------|
-| ![Pie Chart](Report/sentiment_pie.png) | ![Bar Chart](Report/rating_bar.png) |
+| Sentiment Split Pie Chart | Sentiment Bar Chart | Rating vs Sentiment Bar Chart |
+|---------------------------|---------------------|-------------------------------|
+| ![Pie Chart](Report/sentiment_distribution_pie.png) | ![Bar Chart](Report/sentiment_distribution_bar.png) | ![Bar Chart](Report/average_rating_per_sentiment.png)
 
 ## 📂 Real-World Use Case
 

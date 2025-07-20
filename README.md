@@ -13,7 +13,7 @@ This project performs:
 
 ## 📁 Folder Structure
 
-FeedbackSentimentAnalyzer/
+FeedbackSentimentAnalyzer/ <br>
 ├── Data/ # Contains sample feedback data (CSV) <br>
 ├── SRC/ # Python script for ML model and visualization <br>
 ├── Report/ # Final charts + summary report <br>

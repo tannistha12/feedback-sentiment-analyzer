@@ -1,6 +1,6 @@
 # 🧠 Feedback Sentiment Analyzer
 
-A company-ready project built to classify and visualize customer feedback based on sentiment. Developed during my internship at **Ajinca Creation Pvt. Ltd.**
+A company-ready project built to classify and visualize customer feedback based on sentiment. Developed during my internship at **Ajinka Creatiion Pvt. Ltd.**
 
 ## 🚀 Project Overview
 

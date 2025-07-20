@@ -14,14 +14,14 @@ This project performs:
 ## 📁 Folder Structure
 
 FeedbackSentimentAnalyzer/
-├── Data/ # Contains sample feedback data (CSV)
-├── SRC/ # Python script for ML model and visualization
-├── Report/ # Final charts + summary report
+├── Data/ # Contains sample feedback data (CSV) <br>
+├── SRC/ # Python script for ML model and visualization <br>
+├── Report/ # Final charts + summary report <br>
 
 ## 📊 Tech Stack
 
 - Python (Pandas, NumPy, scikit-learn, Matplotlib)
-- Jupyter/VS Code
+- VS Code
 - NLP (Sentiment Classification)
 
 ## ✅ Features

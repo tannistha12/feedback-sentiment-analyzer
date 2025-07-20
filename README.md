@@ -1,47 +1,54 @@
 # 🧠 Feedback Sentiment Analyzer
 
-A company-ready project built to classify and visualize customer feedback based on sentiment. Developed during my internship at **Ajinka Creatiion Pvt. Ltd.**
+An end-to-end **Sentiment Analysis & Feedback Insights** project built during my internship at **Ajinkya Creation Pvt. Ltd.**  
+This tool helps identify what users are _feeling_ from their feedback — positive, neutral, or negative — and provides visual insights for better decision-making.
 
-## 🚀 Project Overview
+![Language](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square) ![Status](https://img.shields.io/badge/Internship%20Project-Complete-brightgreen?style=flat-square)
 
-This project performs:
+## 📌 Project Summary
 
-- Sentiment analysis (Positive / Neutral / Negative)
-- Ratings correlation with sentiment
-- Insightful visualizations (bar chart, pie chart)
-- Business recommendations for product/service improvement
+> **Goal:** Analyze user feedback sentiment from training platforms or surveys and visualize trends to help improve service delivery.
 
-## 📁 Folder Structure
+### ✨ Core Features:
 
-FeedbackSentimentAnalyzer/
-├── Data/ # Contains sample feedback data (CSV)
-├── SRC/ # Python script for ML model and visualization
-├── Report/ # Final charts + summary report
+- Cleaned real-world-like feedback data
+- Sentiment classification using TextBlob & rule-based logic
+- Visual charts: Pie Chart (Sentiment split) & Bar Chart (Rating vs Sentiment)
+- Business-level summary report inside `/Report`
+
+## 📁 Project Structure
+
+FeedbackSentimentAnalyzer/ <br>
+├── Data/ # FeedbackSample.csv (raw input data) <br>
+├── SRC/ # main.py (core logic, sentiment code, plots) <br>
+├── Report/ # Visual charts + text summary <br>
+├── README.md # You’re here! <br>
+├── requirements.txt # Python libraries <br>
+└── .gitignore # Ignored files <br>
 
 ## 📊 Tech Stack
 
 - Python (Pandas, NumPy, scikit-learn, Matplotlib)
-- Jupyter/VS Code
+- VS Code
 - NLP (Sentiment Classification)
 
-## ✅ Features
+## 📊 Visual Samples
 
-- Realistic fake feedback dataset
-- Sentiment classifier using TextBlob / Logistic Regression
-- Clean visualizations (charts for sentiment, rating correlation)
-- Written summary ready for business stakeholders
+| Sentiment Split Pie Chart                           | Sentiment Bar Chart                                 | Rating vs Sentiment Bar Chart                         |
+| --------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
+| ![Pie Chart](Report/sentiment_distribution_pie.png) | ![Bar Chart](Report/sentiment_distribution_bar.png) | ![Bar Chart](Report/average_rating_per_sentiment.png) |
 
 ## 📂 Real-World Use Case
 
-Can be deployed within internal dashboards or LMS platforms to:
+Imagine an LXP (Learning Experience Platform) where feedback is collected. This tool could:
 
-- Monitor real-time feedback sentiment
-- Identify friction points in training modules or platform performance
+- Quickly classify feedback sentiment
+- Help product teams identify modules with low sentiment
+- Provide monthly sentiment performance metrics
+- Build internal dashboards for stakeholders
 
 ## 📜 License
 
 MIT License
-
----
 
 Made with ❤️ during my internship at [Ajinkya Creatiion Pvt. Ltd.]

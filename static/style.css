@@ -1,0 +1,39 @@
+/* static/style.css */
+
+body {
+  background-color: #f4f6f8;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: #0c2d48;
+  text-align: center;
+}
+
+.stButton > button {
+  background-color: #1fab89;
+  color: white;
+  border-radius: 12px;
+  padding: 10px 20px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+  background-color: #0e6e68;
+  color: #fefefe;
+  transform: scale(1.05);
+}
+
+.stFileUploader,
+.stTextArea,
+.stSelectbox {
+  border: 2px solid #cccccc;
+  border-radius: 8px;
+}
+
+footer {
+  visibility: hidden;
+}

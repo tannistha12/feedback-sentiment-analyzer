@@ -51,9 +51,9 @@ FeedbackSentimentAnalyzer/ <br>
 
 ## 🖼️ Visual Preview
 
-| Lottie Animated UI     | Sentiment Dashboard Cards     |
-|------------------------|-------------------------------|
-| ![Animation](https://lottie.host/1236cb6b-e9fe-4b14-ad55-832eb4911fe8/preview.gif) | `Positive: 152`<br>`Neutral: 63`<br>`Negative: 85` | 
+| Sentiment Dashboard Cards     |
+|-------------------------------|
+| `Positive: 152`<br>`Neutral: 63`<br>`Negative: 85` | ![](report/sentiment_distribution_pie.png)<br> |
 
 ---
 

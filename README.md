@@ -3,7 +3,7 @@
 An end-to-end **Sentiment Analysis & Feedback Insights** project built during my internship at **Ajinkya Creation Pvt. Ltd.**  
 This Streamlit-powered app lets users **upload their own CSV files** and instantly visualize customer sentiment — Positive, Negative, or Neutral — in a clean, interactive dashboard.
 
-![Language](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square) ![UI](https://img.shields.io/badge/Frontend-Streamlit-red?style=flat-square) ![Status](https://img.shields.io/badge/Internship%20Project-Complete-brightgreen?style=flat-square)
+![Language](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square) ![Status](https://img.shields.io/badge/Internship%20Project-Complete-brightgreen?style=flat-square)
 
 ---
 
@@ -51,9 +51,9 @@ FeedbackSentimentAnalyzer/ <br>
 
 ## 🖼️ Visual Preview
 
-| Lottie Animated UI     | Sentiment Dashboard Cards     | Pie + Bar Charts              |
-|------------------------|-------------------------------|-------------------------------|
-| ![Animation](https://lottie.host/1236cb6b-e9fe-4b14-ad55-832eb4911fe8/preview.gif) | `Positive: 152`<br>`Neutral: 63`<br>`Negative: 85` | ![](report/sentiment_distribution_pie.png)<br>![](report/sentiment_distribution_bar.png) |
+| Lottie Animated UI     | Sentiment Dashboard Cards     |
+|------------------------|-------------------------------|
+| ![Animation](https://lottie.host/1236cb6b-e9fe-4b14-ad55-832eb4911fe8/preview.gif) | `Positive: 152`<br>`Neutral: 63`<br>`Negative: 85` | 
 
 ---
 
